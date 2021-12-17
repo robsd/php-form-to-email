@@ -1,4 +1,4 @@
-# php-form-to-email 📧
+# php-form-to-email 📨
 
 A PHP script which sends form submissions to an email address of choice and offers a simple captcha to help prevent abuse.
 
