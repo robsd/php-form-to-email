@@ -15,3 +15,9 @@ A PHP script which sends form submissions to an email address of choice and offe
 ## Need a hint?
 
 See the **example.html** file for how to create the elements and declare the JavaScript.
+
+## Support my work
+
+If you like this repo or used any of the code, please star ⭐ it and consider supporting me below...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F34TIDQ)
